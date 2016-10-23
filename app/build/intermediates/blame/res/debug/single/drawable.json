@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ukraine.png",
+        "source": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\src\\main\\res\\drawable\\ukraine.png"
+    },
+    {
+        "merged": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\france.png",
+        "source": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\src\\main\\res\\drawable\\france.png"
+    },
+    {
+        "merged": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usa.png",
+        "source": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\src\\main\\res\\drawable\\usa.png"
+    },
+    {
+        "merged": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\canada.png",
+        "source": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\src\\main\\res\\drawable\\canada.png"
+    },
+    {
+        "merged": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bg.xml",
+        "source": "D:\\School\\4th 2nd sem\\mobiledev\\wheel\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    }
+]

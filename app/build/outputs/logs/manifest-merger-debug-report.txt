@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:3:7-29
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:3:54-79
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:3:30-53
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:4:5-53:15
+	android:label
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:4:18-54
+activity#kankan.wheel.widget.WheelDemo
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:5:9-10:20
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:5:19-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:6:13-9:29
+action#android.intent.action.MAIN
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:7:17-69
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:7:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:8:17-77
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:8:27-74
+activity#kankan.wheel.widget.TimeActivity
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:11:9-16:20
+	android:label
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:11:67-87
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:11:19-66
+intent-filter#android.intent.action.MAIN+kankan.wheel.WHEEL_SAMPLE
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:12:13-15:29
+category#kankan.wheel.WHEEL_SAMPLE
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:14:27-67
+activity#kankan.wheel.widget.Time2Activity
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:17:9-22:20
+	android:label
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:17:68-90
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:17:19-67
+activity#kankan.wheel.widget.DateActivity
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:23:9-28:20
+	android:label
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:23:67-87
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:23:19-66
+activity#kankan.wheel.widget.PasswActivity
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:label
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:29:68-92
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:29:19-67
+activity#kankan.wheel.widget.SlotMachineActivity
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:35:9-40:20
+	android:label
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:35:74-102
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:35:19-73
+activity#kankan.wheel.widget.CitiesActivity
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:41:69-91
+	android:name
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:41:19-68
+uses-sdk
+ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:54:5-71
+	android:targetSdkVersion
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:54:41-69
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml:54:15-40
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\School\4th 2nd sem\mobiledev\wheel\app\src\main\AndroidManifest.xml

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kankan.wheel"
+    android:versionCode="2"
+    android:versionName="2.1" >
+
+    <uses-sdk
+        android:minSdkVersion="5"
+        android:targetSdkVersion="7" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:label="Android Wheel Widget" >
+        <activity android:name="kankan.wheel.widget.WheelDemo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="kankan.wheel.widget.TimeActivity"
+            android:label="Time" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="kankan.wheel.WHEEL_SAMPLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="kankan.wheel.widget.Time2Activity"
+            android:label="Time 2" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="kankan.wheel.WHEEL_SAMPLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="kankan.wheel.widget.DateActivity"
+            android:label="Date" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="kankan.wheel.WHEEL_SAMPLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="kankan.wheel.widget.PasswActivity"
+            android:label="Password" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="kankan.wheel.WHEEL_SAMPLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="kankan.wheel.widget.SlotMachineActivity"
+            android:label="Slot Machine" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="kankan.wheel.WHEEL_SAMPLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="kankan.wheel.widget.CitiesActivity"
+            android:label="Cities" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="kankan.wheel.WHEEL_SAMPLE" />
+            </intent-filter>
+        </activity>
+        <!--
+        activity android:name="kankan.wheel.demo.SpeedActivity" android:label="Speed">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="kankan.wheel.WHEEL_SAMPLE"/>
+            </intent-filter>
+        </activity
+        -->
+    </application>
+
+</manifest>
